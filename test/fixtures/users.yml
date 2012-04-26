@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  twitter_id: 1
+  followers: MyText
+
+two:
+  twitter_id: 1
+  followers: MyText

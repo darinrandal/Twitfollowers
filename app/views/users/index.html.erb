@@ -1,0 +1,3 @@
+<% @users.each do |u| %>
+	<%= link_to(u.twitter_id, :controller => 'users', :action => 'show', :data => u.twitter_id) %>
+<% end %>
